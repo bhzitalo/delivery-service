@@ -28,7 +28,7 @@ Para manter um ambiente justo e divertido para todos, siga as regras abaixo:
 ## 🛠️ Instalação
 
 1. Instale o **Minecraft Java Edition 1.21.11**
-2. Instale o **Fabric Loader**
+2. Instale o [**Fabric Loader**](https://fabricmc.net/use/installer/)
 3. Baixe o **Modpack**
 4. Extraia os arquivos
 5. Coloque a pasta `mods` dentro da `.minecraft`
